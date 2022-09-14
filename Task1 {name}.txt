@@ -136,41 +136,21 @@ CS Teacher to ...
 
 Love podcasts or audiobooks? Learn on the go with our new app.
 
-Marc Chataigner
+Alex Moltzau
 
-in
+Appstudio Canada
 
-Postscript on the societies of design.
+Mike Alreend
 
-Austin Engelhardt
-
-in
-
-Digital Shroud
-
-Fawad Khan
-
-Vonage Dev
-
-in
-
-codeburst
-
-Rihad Variawa
+Alexander Zweedel Byham
 
 Alex Moltzau
 
+Silicon Foundry
+
+Nikita Harindranath
+
 Alex Moltzau
-
-in
-
-Towards Data Science
-
-Henri Heinonen
-
-in
-
-Towards Data Science
 
 AboutHelpTermsPrivacy
 
@@ -193,5 +173,4 @@ Terms
 About
 
 Knowable
-
 
